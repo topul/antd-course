@@ -42,10 +42,14 @@ export default {
 				{
 					path: "puzzlecards",
 					component: "./puzzlecards"
+				},
+				{
+					path: "list",
+					component: "./list"
 				}
 			]
 		}
-	],
+	]
 	// proxy: {
 	// 	'/random_joke': {
 	// 		target: 'https://official-joke-api.appspot.com',
